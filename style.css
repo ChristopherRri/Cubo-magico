@@ -1,0 +1,112 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Coda+Caption:wght@800&display=swap');
+
+
+
+
+
+h1#mensagem{
+color: red;
+position: absolute;
+margin-left: 500px;
+font-family: 'Coda Caption', sans-serif;
+}
+
+
+h1#block{
+    background-color: black;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    border-radius: 5px;
+   
+}
+
+h1#block2{
+    background-color: black;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-left: 125px;
+    border-radius: 5px;
+   }
+
+   h1#block3{
+    background-color: black;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-left: 250px;
+    border-radius: 5px;
+   }
+
+   h1#block4{
+    background-color: black;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 145px;
+    border-radius: 5px;
+   }
+
+   
+   h1#block5{
+    background-color: black;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 145px;
+    margin-left: 125px;
+    border-radius: 5px;
+   }
+
+   
+   h1#block6{
+    background-color: black;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 145px;
+    margin-left: 250px;
+    border-radius: 5px;
+   }
+
+   h1#block7{
+    background-color: black;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 270px;
+    border-radius: 5px;
+   }
+   h1#block8{
+    background-color: black;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 125px;
+    border-radius: 5px;
+   }
+   h1#block9{
+    background-color: black;
+    padding: 10px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 250px;
+    border-radius: 5px;
+   }
+
+
+
+   
